@@ -2,7 +2,7 @@
 
 ### My name is Christian Camilo, i'm a Computer Science student at UNESP, Christian servant ✝ and programming is my work and hobby.
 #### I love games, especially FPS ones, and technology in general.
-#### Currently, i work with JavaScript, NodeJs and React Native languages at Info Jr. enterprise
+#### Currently, i work with QA tests at my internship in Daitan
 <!--
 **ChrisCamilo/ChrisCamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
