@@ -38,9 +38,9 @@ I design and own test automation frameworks in **C# / .NET** (Selenium, SpecFlow
 
 Same client project as at Encora, continued after Coforge acquired Encora. Automated the manual test-execution process end to end and documented it in Confluence.
 
-**QA Automation Engineer (Systems Development Specialist) — Encora** · Oct 2022 – Feb 2026
+**QA Automation Engineer (Systems Development Specialist) — Encora** · Oct 2022 – Feb 2026 (Systems Development Assistant, Aug – Sep 2022)
 
-- *Web platform (C# / Selenium / SpecFlow):* owned the UI automation layer, led the change to a generic, component-based framework, tested REST APIs with RestSharp (status codes, JSON schemas, JWT / OAuth), verified AWS QuickSight BI reports and kept automation healthy across 3 AWS environments.
+- *Web platform (C# / Selenium / SpecFlow):* owned the UI automation layer, led the change to a generic, component-based framework, tested REST APIs with RestSharp (status codes, JSON schemas, JWT / OAuth), verified AWS QuickSight BI reports and kept automation healthy across 3 AWS environments. Co-authored the framework docs in Confluence, reviewed automation merge requests in GitLab and onboarded new QA engineers.
 - *Web, API and Mobile (Robot Framework):* UI automation specialist, maintained the Jenkins pipeline with cross-browser and cross-device runs, tested mobile on BrowserStack and real devices (Appium, private tunneling, Wireshark) and maintained Postman / Newman collections.
 
 **QA Tester (Intern) — Daitan Group** (acquired by Encora) · Nov 2021 – Aug 2022
@@ -99,7 +99,7 @@ Led React / React Native projects across Agile teams, trained and interviewed de
 
 **☁️ AWS:** EC2 · Systems Manager (SSM) · Cognito · SNS · CloudFormation · S3 · RDS · DynamoDB · CloudWatch · QuickSight
 
-**🧠 Test design and process:** Boundary Value Analysis · Equivalence Partitioning · Decision Tables · State Transition · Risk-Based and Exploratory Testing · Shift-Left · Requirements Traceability · Defect Triage · Root Cause Analysis · Flaky Test Analysis
+**🧠 Test design and process:** Boundary Value Analysis · Equivalence Partitioning · Decision Tables · State Transition · Negative, Risk-Based and Exploratory Testing · Data-Driven and Parallel Test Execution · Shift-Left · Requirements Traceability · Defect Triage · Root Cause Analysis · Flaky Test Analysis
 
 **📚 Currently studying (personal projects):**
 
