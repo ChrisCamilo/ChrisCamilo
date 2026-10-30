@@ -32,6 +32,16 @@ I design and own test automation frameworks in **C# / .NET** (Selenium, SpecFlow
 - ☁️ **AWS helper packages** for SNS, Cognito, CloudFormation, RDS, DynamoDB and CloudWatch, used for test data management and backend checks.
 - 🏆 **Certificate of Recognition, Encora (Aug 2025):** for consistent client praise, deep knowledge of the product's business rules, technical leadership and support to teammates.
 
+## Featured Project
+
+<p align="center">
+  <a href="https://chriscamilo.github.io/apc-universal-repair/">
+    <img src="https://chriscamilo.github.io/apc-universal-repair/banner.jpg" alt="APC Universal Repair" width="600"/>
+  </a>
+</p>
+
+🔧 **[APC Universal Repair](https://chriscamilo.github.io/apc-universal-repair/)**: a vehicle catalog and parts inventory for workshops, on web, mobile and Windows. Try the [interactive demo](https://chriscamilo.github.io/apc-universal-repair/demo/) or browse the [source code](https://github.com/ChrisCamilo/apc-universal-repair).
+
 ## Experience
 
 **QA Automation Engineer (Junior Associate) — Coforge** · Feb 2026 – Sep 2026
